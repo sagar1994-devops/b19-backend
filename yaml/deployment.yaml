@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: b19-backend-app
-          image: shubhamkalsait1/b19-backend:latest
+          image: 869935100382.dkr.ecr.us-east-2.amazonaws.com/backend:latest
           ports:
             - containerPort: 8080
